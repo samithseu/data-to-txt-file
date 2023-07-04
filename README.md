@@ -1,5 +1,5 @@
 # STUDENT MANAGEMENT SYSTEM
-This is an assignment for creating a mini-system while using the file as the data structure. 
+This is an assignment for creating a mini-system while using the file as the data structure at <a href="https://www.facebook.com/brachnasastraBTI">BTI</a>
 ## Members
 1. <a href="https://t.me/sornsarim">Sorn Sarim</a>
 2. <a href="https://t.me/samithseu">Seu Samith</a>
