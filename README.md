@@ -7,4 +7,4 @@ This is an assignment for creating a mini-system while using the file as the dat
 4. <a href="https://t.me/credit_officer">Phok Rathanak</a>
 5. <a href="https://t.me/Userrom5220">Sun Rom</a>
 
-If you encounter any problem in this code, we are sorry in advanced.
+If you encounter any problem in this code, we are sorry in advance.
